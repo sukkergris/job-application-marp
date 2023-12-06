@@ -1,1 +1,6 @@
-*.pdf
+# Ignore all pdf files
+**/*.pdf
+# Ignore html i the root folder
+*.html
+# Ignore output from plantuml
+out/**

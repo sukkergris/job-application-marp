@@ -14,6 +14,12 @@ since 2008
 
 ---
 
+# The person
+
+I'm 47, married got 3 kids, two dogs, a cat and a house from the 70'ies.
+
+---
+
 # Long story short
 <span style="width:43%">
 <hr>
@@ -88,7 +94,7 @@ Browser Extensions
 
 ---
 
-# Wanna se my code?
+# Wanna see my code?
 
 [Github - Job application](https://github.com/sukkergris/job-application)
 
