@@ -4,3 +4,11 @@
 section {
     background-color: rgb(255, 255, 255);
 }
+
+section.right {
+  text-align: right;
+}
+
+section.left {
+    text-align: left;
+}

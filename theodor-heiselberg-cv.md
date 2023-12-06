@@ -39,6 +39,79 @@ Love for the web
 
 ---
 
+# Experience
+<hr>
+
+<!-- _class: right -->
+Team lead
+SCRUM
+MAUI Blazor
+Automation
+Consultant
+Uniconta
+Resco.net
+Browser Extensions
+
+![bg right opacity:80%](resources/multiple-projects-focus.jpg)
+
+---
+
+# Team lead
+
+---
+
+# SCRUM
+
+---
+
+# MAUI Blazor
+
+---
+
+# Automation
+
+---
+
+# Consultant
+
+---
+
+# Uniconta
+
+---
+
+# Resco.net
+
+---
+
+# Browser Extensions
+
+---
+
+# Wanna se my code?
+
+[Github - Job application](https://github.com/sukkergris/job-application)
+
+![bg left](resources/matrix.jpg)
+
+---
+
+# Portifolio Stack
+<hr>
+
+* Devcontainer
+* Docker
+* Github
+* Azure CLI
+* Pulumi
+* Azure functions
+* Static website
+* Elm (Frontend)
+
+ ![bg right](resources/desk-jockey-right-vertical.jpg)
+
+---
+
 # Timeline
 <hr>
 
@@ -53,26 +126,4 @@ Love for the web
 **2023 Jan  :**  Team lead (1y2m)
 **2024 Mar  :**  Searching...
 
-![bg right](resources/desk-jockey-right-vertical.jpg)
-
----
-
-# Wanna se my code?
-
-![bg left](resources/matrix.jpg)
-
----
-
-# Stack
-<hr>
-
-* Devcontainer
-* Docker
-* Github
-* Azure CLI
-* Pulumi
-* Azure functions
-* Static website
-* Elm (Frontend)
-
-![bg right](resources/desk-jockey-right-vertical.jpg)
+![bg left](resources/desk-jockey-left-vertical.jpg)
