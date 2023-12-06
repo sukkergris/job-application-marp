@@ -1,0 +1,17 @@
+@startuml "Timeline"
+
+concise "Timeline" as e
+
+e is Educating
+
+@e
+2008.6 is "Engineering assistant" /'Kamstrup: C#, xlst'/
+2014.6 is "Dev" /'SONLINC: C#, WPF'/
+2016.6 is "Team lead" /'ITL: C#, Razor, SQL, Entity Framework'/
+2018.1 is "Dev" /'Sekoia: C#, WPF, Entity Framework'/
+2019.0 is "Consultent" /'Retus: C#, WPF, ASP.NET, HTML, Javascript'/
+2021.3 is "Dev" /'SEGES'/
+2022.7 is "Team lead" /'POWERCARE'/
+2024.1 is "Searching..."
+
+@enduml
