@@ -4,3 +4,5 @@
 *.html
 # Ignore output from plantuml
 out/**
+# Ignore temp files from ms
+**/~$*
