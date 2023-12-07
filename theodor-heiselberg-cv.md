@@ -4,7 +4,7 @@ theme: cv-theme
 paginate: true
 ---
 
-# CV 2023
+# The CV 2023
 <hr>
 Theodor Heiselberg<br/>
 Passionate .NET Developer<br/>
@@ -14,7 +14,39 @@ since 2008
 
 ---
 
-# Long story short
+# The Timeline<hr>
+
+| Year       | Position           | Duration   |Tech|
+|------------|--------------------|------------|-----|
+| 2023 Jan   | Team lead          | 1y +       | Azure, Pulumi, Nuke, Docker, DDD |
+| 2022 Aug   | Off the grid       | 0y 5m      | Off the grid |
+| 2021 Apr   | Sys. Dev.          | 1y 5m      | Azure, Nuke, Blazor, Docker |
+| 2018 Dec   | Uniconta           | 2y 4m      | XUnit, WPF, Design Patterns |
+| 2018 Feb   | Sys. Dev.          | 0y 8m      | WPF, C#, XUnit |
+| 2016 July  | Team Lead          | 1y 7m      | ASP.NET MVC, C#, Design Patterns |
+| 2014 June  | Sys. Dev.          | 2y 0m      | WinForms, MVP, MVVM, C# |
+| 2008 Oct   | Integrations       | 5y 11m     | WPF, C#, XSLT, Projet Manager |
+| 2008 June  | Bachelor of Electronics |       | C, C#, Matlab UI, Statistics
+
+![bg opacity:.3](resources/background-blur.jpg)
+
+---
+
+# The Technologies<hr>
+
+* .NET Core
+* Docker
+* Pulumi
+* Nuke Build
+* Azure
+* Hangfire
+
+![bg left opacity:80%](resources/desk-jockey-left-vertical.jpg)
+
+---
+
+# The Professional
+
 <span style="width:43%">
 <hr>
 </span>
@@ -25,64 +57,7 @@ Passion for the web
 
 ---
 
-# The Man
-
-I'm 47, married, have three kids, two dogs, a cat and a house from the 70'ies.
-
-### The what
-
-Late 2023 i lost 15Kg in just two months. Now waying in at just bellow 90 Kg. HOW? One might ask, did you lose a limb?
-
-![bg right](resources/matrix.jpg)
-
----
-
-### The how
-
-No, but it was a three stage rocket:
-
-1. Started on a Keto diet
-2. Sold my car
-3. Cycling everywhere
-
-![bg left](resources/matrix.jpg)
-
----
-
-### The why
-
-Recent years my saying has become more like this:
-
-> **Whatever is worth doing - is worth doing well!**
-
-<br/>And I just want to live well
-
-![bg right](resources/matrix.jpg)
-
----
-
-# The Professional
-
-A breef history
-
----
-
-# The Technologies
-<hr>
-
-* .NET Core
-* Docker
-* Pulumi
-* Nuke Build
-* Azure
-* Hangfire
-
-![bg left opacity:80%](resources/multi-tech-love.jpg)
-
----
-
-# The Experience
-<hr>
+# The Experience<hr>
 
 <!-- _class: right -->
 Team lead
@@ -90,58 +65,90 @@ Consultant
 SCRUM
 MAUI Blazor
 Automation
+Browser Extensions
 Uniconta
 Resco.net
-Browser Extensions
 
 ![bg right opacity:80%](resources/multiple-projects-focus.jpg)
 
 ---
 
-# The Team Lead
+# The Team Lead<hr>
 
-When as acting team lead I employ the following guide lines:
+When as acting team lead I employ the following guidelines:
 
 * Delegate responsibility
 * Empower team members
 * Hold individuals accountable
 * Fostering trust
 * Respect we are all individuals
-* Encourage a positive atmosphere
-
-![bg left](resources/matrix.jpg)
+* Cultivate a positive atmosphere
 
 ---
 
-# The Consultant
+# The Consultant<hr>
+
+I have been working as consultant several years
+
+* Customer communication
+* Delivering fully functional solutions
+* Timely delivery
+* Billing
 
 ---
 
-# SCRUM
+# The SCRUM<hr>
+
+Rarely have I seen an acronym used for such a variety of workflows.
+I really like SCRUM, but I rarely get to work with it where it has been fully adopted.
+
+But that can work too
 
 ---
 
-# MAUI Blazor
+# The Automation<hr>
+
+For me - automation is means to reac a goal
+My goal is to write business logic
+
+**The past year I have been using:**
+
+1. [Pulumi](https://pulumi.com) for my IaC
+2. [Nuke build](https://nuke.build) for build and deploy
+3. Azure for hosting
+4. Docker Compose for local development and pipelines
 
 ---
 
-# Automation
+# ASP.NET Core Web API<hr>
+
+Since 2016 I have been working with alost every consivable aspects of ASP.NET
 
 ---
 
-# Uniconta
+# MAUI Blazor<hr>
+
+Resently developed an Blazor MAUI app for Android
+
+A Simple WebView with some functionality for notifications
+
+---
+# The Experience<hr>
+
+**Uniconta**
+Extending the UI using WPF
+Using design patters when solving complex business rules
+
+**Resco.net**
+Rapid prototyping but also developing fully funcional apps
+Adding triggers in C# on the server and using HTML and JS to customize the application
+
+**Browser Extensions**
+It's gradually becomming business as usual to extend third part programs with enhansed funcionality
 
 ---
 
-# Resco.net
-
----
-
-# Browser Extensions
-
----
-
-# Wanna see my code?
+# Wanna see my code?<hr>
 
 <!-- _class: centered-link -->
 [Github - The Code](https://github.com/sukkergris/job-application)
@@ -151,8 +158,7 @@ When as acting team lead I employ the following guide lines:
 
 ---
 
-# The Portifolio Stack
-<hr>
+# The Portifolio Stack<hr>
 
 * Devcontainer
 * Docker
@@ -167,18 +173,13 @@ When as acting team lead I employ the following guide lines:
 
 ---
 
-# The Timeline
-<hr>
+# The Man <hr>
 
-**2008 June :** Bachelor of electronics
-**2008 Oct  :** Integrations (5y11m)
-**2014 June :** Sys. Dev. (2y0m)
-**2016 July :** Team Lead (1y7m)
-**2018 Feb  :**  Sys. Dev. (0y8m)
-**2018 Dec  :**  Uniconta (2y4m)
-**2021 Apr  :**  Sys. Dev. (1y5m)
-**2022 Aug  :**  Off the grid (0y5m)
-**2023 Jan  :**  Team lead (1y2m)
-**2024 Mar  :**  Searching...
+I'm 47, married, have three kids, two dogs, a cat and a house from the 70'ies.
 
-![bg left](resources/desk-jockey-left-vertical.jpg)
+Recent years my saying has become:
+<br>
+
+> **Whatever is worth doing - is worth doing well**
+
+<br/>And I just want to live well

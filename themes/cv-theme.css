@@ -2,7 +2,7 @@
 @import 'default';
 
 section {
-    background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
 }
 
 section.right {
@@ -10,8 +10,12 @@ section.right {
 }
 
 section.left {
-    text-align: left;
+  text-align: left;
 }
 section.centered-link {
   text-align: center;
+}
+section.tras {
+  color: black;
+  background-color: black;
 }
