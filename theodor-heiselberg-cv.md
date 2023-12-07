@@ -180,6 +180,6 @@ I'm 47, married, have three kids, two dogs, a cat and a house from the 70'ies.
 Recent years my saying has become:
 <br>
 
-> **Whatever is worth doing - is worth doing well**
+> **Whatever is worth doing - is worth doing right**
 
-<br/>And I just want to live well
+<br> Family man, husbond, dad, brother, college. All titels to live up to right
