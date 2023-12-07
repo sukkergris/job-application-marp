@@ -6,17 +6,11 @@ paginate: true
 
 # CV 2023
 <hr>
-Theodor Heiselberg <br/>
-Passionate .NET Developer <br/>
+Theodor Heiselberg<br/>
+Passionate .NET Developer<br/>
 since 2008
 
 ![bg left](resources/profileimage-1500-1500.jpg)
-
----
-
-# The person
-
-I'm 47, married got 3 kids, two dogs, a cat and a house from the 70'ies.
 
 ---
 
@@ -25,13 +19,55 @@ I'm 47, married got 3 kids, two dogs, a cat and a house from the 70'ies.
 <hr>
 </span>
 Working with C# since 2008 <br/>
-Love for the web
+Passion for the web
 
 ![bg opacity:.3](resources/background-blur.jpg)
 
 ---
 
-# Technologies
+# The Man
+
+I'm 47, married, have three kids, two dogs, a cat and a house from the 70'ies.
+
+### The what
+
+Late 2023 i lost 15Kg in just two months. Now waying in at just bellow 90 Kg. HOW? One might ask, did you lose a limb?
+
+![bg right](resources/matrix.jpg)
+
+---
+
+### The how
+
+No, but it was a three stage rocket:
+
+1. Started on a Keto diet
+2. Sold my car
+3. Cycling everywhere
+
+![bg left](resources/matrix.jpg)
+
+---
+
+### The why
+
+Recent years my saying has become more like this:
+
+> **Whatever is worth doing - is worth doing well!**
+
+<br/>And I just want to live well
+
+![bg right](resources/matrix.jpg)
+
+---
+
+# The Professional
+
+A breef history
+
+---
+
+# The Technologies
 <hr>
 
 * .NET Core
@@ -45,15 +81,15 @@ Love for the web
 
 ---
 
-# Experience
+# The Experience
 <hr>
 
 <!-- _class: right -->
 Team lead
+Consultant
 SCRUM
 MAUI Blazor
 Automation
-Consultant
 Uniconta
 Resco.net
 Browser Extensions
@@ -62,7 +98,22 @@ Browser Extensions
 
 ---
 
-# Team lead
+# The Team Lead
+
+When as acting team lead I employ the following guide lines:
+
+* Delegate responsibility
+* Empower team members
+* Hold individuals accountable
+* Fostering trust
+* Respect we are all individuals
+* Encourage a positive atmosphere
+
+![bg left](resources/matrix.jpg)
+
+---
+
+# The Consultant
 
 ---
 
@@ -75,10 +126,6 @@ Browser Extensions
 ---
 
 # Automation
-
----
-
-# Consultant
 
 ---
 
@@ -96,13 +143,15 @@ Browser Extensions
 
 # Wanna see my code?
 
-[Github - Job application](https://github.com/sukkergris/job-application)
+<!-- _class: centered-link -->
+[Github - The Code](https://github.com/sukkergris/job-application)
+[Github - The CV](https://github.com/sukkergris/job-application-marp)
 
 ![bg left](resources/matrix.jpg)
 
 ---
 
-# Portifolio Stack
+# The Portifolio Stack
 <hr>
 
 * Devcontainer
@@ -118,7 +167,7 @@ Browser Extensions
 
 ---
 
-# Timeline
+# The Timeline
 <hr>
 
 **2008 June :** Bachelor of electronics

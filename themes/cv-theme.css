@@ -12,3 +12,6 @@ section.right {
 section.left {
     text-align: left;
 }
+section.centered-link {
+  text-align: center;
+}
