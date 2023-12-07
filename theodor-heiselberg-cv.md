@@ -16,8 +16,8 @@ since 2008
 
 # The Timeline<hr>
 
-| Year       | Position           | Duration   |Tech|
-|------------|--------------------|------------|-----|
+| Year       | Position           | Duration   | Tech |
+|------------|--------------------|------------|------|
 | 2023 Jan   | Team lead          | 1y +       | Azure, Pulumi, Nuke, Docker, DDD |
 | 2022 Aug   | Off the grid       | 0y 5m      | Off the grid |
 | 2021 Apr   | Sys. Dev.          | 1y 5m      | Azure, Nuke, Blazor, Docker |
@@ -25,7 +25,7 @@ since 2008
 | 2018 Feb   | Sys. Dev.          | 0y 8m      | WPF, C#, XUnit |
 | 2016 July  | Team Lead          | 1y 7m      | ASP.NET MVC, C#, Design Patterns |
 | 2014 June  | Sys. Dev.          | 2y 0m      | WinForms, MVP, MVVM, C# |
-| 2008 Oct   | Integrations       | 5y 11m     | WPF, C#, XSLT, Projet Manager |
+| 2008 Oct   | Integrations       | 5y 11m     | WPF, C#, XSLT, Project Manager |
 | 2008 June  | Bachelor of Electronics |       | C, C#, Matlab UI, Statistics
 
 ![bg opacity:.3](resources/background-blur.jpg)
@@ -45,7 +45,7 @@ since 2008
 
 ---
 
-# The Professional
+# The Professional<hr>
 
 <span style="width:43%">
 <hr>
@@ -75,12 +75,12 @@ Resco.net
 
 # The Team Lead<hr>
 
-When as acting team lead I employ the following guidelines:
+When acting as a team lead, I employ the following guidelines:
 
 * Delegate responsibility
 * Empower team members
 * Hold individuals accountable
-* Fostering trust
+* Foster trust
 * Respect we are all individuals
 * Cultivate a positive atmosphere
 
@@ -88,7 +88,7 @@ When as acting team lead I employ the following guidelines:
 
 # The Consultant<hr>
 
-I have been working as consultant several years
+I have been working as a consultant for several years.
 
 * Customer communication
 * Delivering fully functional solutions
@@ -102,14 +102,14 @@ I have been working as consultant several years
 Rarely have I seen an acronym used for such a variety of workflows.
 I really like SCRUM, but I rarely get to work with it where it has been fully adopted.
 
-But that can work too
+But that can work too.
 
 ---
 
 # The Automation<hr>
 
-For me - automation is means to reac a goal
-My goal is to write business logic
+For me, automation is a means to reach a goal.
+My goal is to write business logic.
 
 **The past year I have been using:**
 
@@ -122,29 +122,29 @@ My goal is to write business logic
 
 # ASP.NET Core Web API<hr>
 
-Since 2016 I have been working with alost every consivable aspects of ASP.NET
+Since 2016, I have been working with almost every conceivable aspect of ASP.NET.
 
 ---
 
 # MAUI Blazor<hr>
 
-Resently developed an Blazor MAUI app for Android
+Recently developed a Blazor MAUI app for Android.
 
-A Simple WebView with some functionality for notifications
+A Simple WebView with some functionality for notifications.
 
 ---
 # The Experience<hr>
 
-**Uniconta**
-Extending the UI using WPF
-Using design patters when solving complex business rules
+**Uniconta:**
+Extending the UI using WPF.
+Using design patterns when solving complex business rules.
 
-**Resco.net**
-Rapid prototyping but also developing fully funcional apps
-Adding triggers in C# on the server and using HTML and JS to customize the application
+**Resco.net:**
+Rapid prototyping but also developing fully functional apps.
+Adding triggers in C# on the server and using HTML and JS to customize the application.
 
-**Browser Extensions**
-It's gradually becomming business as usual to extend third part programs with enhansed funcionality
+**Browser Extensions:**
+It's gradually becoming business as usual to extend third-party programs with enhanced functionality.
 
 ---
 
@@ -158,7 +158,7 @@ It's gradually becomming business as usual to extend third part programs with en
 
 ---
 
-# The Portifolio Stack<hr>
+# The Portfolio Stack<hr>
 
 * Devcontainer
 * Docker
@@ -175,11 +175,11 @@ It's gradually becomming business as usual to extend third part programs with en
 
 # The Man <hr>
 
-I'm 47, married, have three kids, two dogs, a cat and a house from the 70'ies.
+I'm 47, married, have three kids, two dogs, a cat, and a house from the 70s.
 
 Recent years my saying has become:
 <br>
 
 > **Whatever is worth doing - is worth doing right**
 
-<br> Family man, husbond, dad, brother, college. All titels to live up to right
+<br> Family man, husband, dad, brother, colleague. All titles to live up to, right.
