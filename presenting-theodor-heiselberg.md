@@ -45,7 +45,7 @@ since 2008
 
 ---
 
-# The Professional<hr>
+# The Professional
 
 <span style="width:43%">
 <hr>
