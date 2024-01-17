@@ -1,18 +1,18 @@
 
 # Welcome
 
-This project contanis three differetnt cv's and a presentation build using marp.
+This project contains three different CVs and a presentation built using Marp.
 
 ## Using marp in vs-code
 
 First install the extension `Marp for VS Code`
 
-Then enable html in marp
+Then enable HTML in marp
 
 ```marp
 markdown.marp.enablehtml
 ```
 
-Finally build the projet to eg. pdf or html
+Finally build the projet to eg. PDF or HTML
 
 (Ctrl+Shift+P) -> [Marp - Export Slide Deck]
