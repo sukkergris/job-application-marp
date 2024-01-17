@@ -10,7 +10,7 @@ Theodor Heiselberg<br/>
 Passionate .NET Developer<br/>
 since 2008
 
-![bg left](resources/profileimage-1500-1500.jpg)
+![bg left](resources/profileimage-medium.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ since 2008
 | 2008 Oct   | Integrations       | 5y 11m     | WPF, C#, XSLT, Project Manager |
 | 2008 June  | Bachelor of Electronics |       | C, C#, Matlab UI, Statistics
 
-![bg opacity:.3](resources/background-blur.jpg)
+![bg opacity:.3](resources/background-blur-medium.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ since 2008
 * Azure
 * Hangfire
 
-![bg left opacity:80%](resources/desk-jockey-left-vertical.jpg)
+![bg left opacity:80%](resources/desk-jockey-left-vertical-medium.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ since 2008
 Working with C# since 2008 <br/>
 Passion for the web
 
-![bg opacity:.3](resources/background-blur.jpg)
+![bg opacity:.3](resources/background-blur-medium.jpg)
 
 ---
 
@@ -169,7 +169,7 @@ It's gradually becoming business as usual to extend third-party programs with en
 * Static website
 * Elm (Frontend)
 
- ![bg right](resources/desk-jockey-right-vertical.jpg)
+ ![bg right](resources/desk-jockey-right-vertical-medium.jpg)
 
 ---
 
