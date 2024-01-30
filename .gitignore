@@ -6,3 +6,4 @@
 out/**
 # Ignore temp files from ms
 **/~$*
+.vs/
