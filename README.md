@@ -1,4 +1,3 @@
-
 # Welcome
 
 This project contains three different CVs and a presentation built using Marp.
@@ -12,6 +11,9 @@ Then enable HTML in marp
 ```marp
 markdown.marp.enablehtml
 ```
+
+See .vscode/settings.json
+
 
 Finally build the projet to eg. PDF or HTML
 
